@@ -1,0 +1,1 @@
+Something Something Safari Plugin to create a better StreamCloud experience.
